@@ -192,3 +192,7 @@ z-index: 1000;
 .alto-contraste #galeria{
     background-color: varI(--alto-contraste-fundo);
 }
+
+.alto-contrate .fundo-galeria{
+    background: none;
+}
