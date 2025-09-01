@@ -179,3 +179,16 @@ z-index: 1000;
 .alto-contraste header, .alto-contraste footer, .alto-contraste .formulario{
     background-color: var(--alto-cotraste-fundo);
     color: var(--alto-contraste-texto);
+}
+
+.alto-contraste .nav-link{
+    color: var(--alto-contraste-link);
+}
+
+.alto-contraste #tropicalia{
+    background: none;
+}
+
+.alto-contraste #galeria{
+    background-color: varI(--alto-contraste-fundo);
+}
